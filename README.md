@@ -1,5 +1,31 @@
 # VBA
 
-Repository for my VBA and other Excel projects.
+Repository for my VBA & Excel-based projects.
 
-Most of projects at this space were adapted from other open projects, for study.
+
+## Installation
+
+First of all, you need to an Excel copy installed into your machine.
+
+So on, prepare your setup that way: https://docs.microsoft.com/en-us/visualstudio/vsto/enable-access-to-vba-to-create-or-open-a-visual-studio-tools-for-office-system-project?view=vs-2019
+
+
+## Usage
+
+Feel free to clone this space.
+
+If you don´t know how to incorporate a Form or a Module into your VBA Project, I sugest this:
+
+https://www.techrepublic.com/blog/microsoft-office/export-your-vba-code-for-use-in-another-excel-application/
+
+https://www.rondebruin.nl/win/s9/win002.htm
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
