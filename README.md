@@ -1,4 +1,4 @@
-# VBA
+# VBA Projects
 
 Repository for my VBA & Excel-based projects.
 
